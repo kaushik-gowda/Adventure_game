@@ -1,6 +1,6 @@
 # Adventure_game
 
-Welcome to this simple text-based Adventure Game! 🚀
+  Welcome to this simple text-based Adventure Game! 🚀
 
 # How to Play
   1-You will be prompted to enter your name.
